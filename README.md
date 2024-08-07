@@ -5,6 +5,7 @@ Bioinformatic & Biotechnology
 -------------------------------
 
 *   🤝 I'm open to collaborating on interesting projects as a bioinformatics researcher.
+*   ⚡ I am currently working on analyzing the impact of the chemical structure of biomolecules on separation processes using their fingerprints and SMILES with the help of machine learning.
 
 ### Skills
 <p align="left">
